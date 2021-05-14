@@ -1,0 +1,19 @@
+{
+  "name": "node_blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://nileshSoftpillar@bitbucket.org/nileshSoftpillar/node_blog.git"
+  },
+  "author": "Nilesh Patil",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/nileshSoftpillar/node_blog#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
